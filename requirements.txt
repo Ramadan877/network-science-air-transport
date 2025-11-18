@@ -1,0 +1,24 @@
+# Network Science Air Transport Project Dependencies
+
+# Core libraries for network analysis
+networkx>=3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Community detection
+python-louvain>=0.16
+
+# Jupyter notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Data processing
+scipy>=1.10.0
+
+# Optional: Geographic visualization
+# folium>=0.14.0
+# geopandas>=0.13.0
